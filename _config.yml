@@ -2,6 +2,7 @@
 title: Steven in Berlin
 desctiption: Steven just went to Berlin for the first time.
 url: "http://uwberlin.sxu.ca"
+permalink: ':title/'
 
 markdown: kramdown
 baseurl: ""
