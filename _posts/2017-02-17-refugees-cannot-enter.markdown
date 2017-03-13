@@ -16,7 +16,7 @@ The owner of the shop next door walked out and asked me: "Kann ich Ihnen viellei
 
 So this became a mystery.
 
-On the last day in Berlin, I knew I had to figure this out before leaving the country. I got up really early so I had enough time for this little trip before catching the plane, but more importantly there was nobody on the street. This time, for some (😅) reason an English translation was also put below the sign. Aha! I laughed out so loud.
+On the last day in Berlin, I knew I had to figure this out before leaving the country. I got up really early so I had enough time for this little trip before catching the plane, but more importantly it was early enough that there was nobody on the street. This time, for some (😅) reason an English translation was also put below the sign. Aha! I laughed out so loud.
 
 Here is the paper sign:
 
@@ -35,8 +35,8 @@ Right before the trip, my GER 212 course was discussing topics regarding refugee
 
 You don't need to know German to identify the "flücht" part in each word. So I assumed the "Fluchtwege" and "Fluchttüren" also have something to do with refugees. I feel so dumb because I actually know "Wege" means route and "Türen" means doors, but the "flucht" part triggers so much memory about the reading that I ignored the rest.
 
-And for the word "verstellen", that was just a half-guessing half-knowing word interpreted under panic. I know "stellen" has something to do with putting things at places, so combined with "nicht" (not) I mistakenly thought of "not to be put here", so together "refugees shouldn't be here".
+As for the word "verstellen", that was just a half-guessing half-knowing word interpreted under panic. I know "stellen" has something to do with putting things at places, so combined with the prefix "ver" and "nicht" (not) I mistakenly thought of "not to be put here", so together something along the lines of "refugees shouldn't be here".
 
-This is probably a laughable mistake only German learners can understand. If I explain this to Germans, I would expect them to be confused instead of amused.
+This is probably a laughable mistake only German learners can understand. If I explain this to Germans, they would probably be confused instead of entertained.
 
 I guess I'll never know why an English translation was up 9 days later.
