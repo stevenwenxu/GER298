@@ -3,7 +3,7 @@ layout: post
 title: "First Day"
 description: First day in a new country is always the most interesting part of a journey.
 date: 2017-02-17
-img: karna.jpg
+img: firstday.jpg
 categories: [thoughts, food]
 color: 1976D2
 ---
@@ -18,7 +18,7 @@ I have studied through 3 German textbooks, all of which were book series called 
 
 With some friends, this was our first meal in Germany. Of course we did not know what to order, and we wanted something so authentic, that we ended up in a restaurant that only had German menus. The restaurant looked like a brunch place, but it had all sorts of things from sausages to schnitzels. I was the only one in the group who understood *some* German, but it didn't help much.
 
-![Currywurst and potato salad]()
+![Currywurst and potato salad]({{site.baseurl}}/images-hq/first_day/currywurst.jpg)
 
 The waitress recommended some 30 euro full meal, but we did not completely understand nor felt like it. With tons of confusion, we all ordered this "Currywurst mit Kartoffelsalat". It was the most straightforward item on the menu that I could recognize instantly, so I recommended this to everyone. My roommate didn't know what Currywurst is, and when he asked the waitress in English, she looked at him as if he was crazy: "It's Currywurst!", she shrugged her shoulders and wasn't sure what was confusing him. I told him "it's curry sausages", and then the waitress immediately had an a-ha moment, "ah, ja genau, sausages, sausages...".
 

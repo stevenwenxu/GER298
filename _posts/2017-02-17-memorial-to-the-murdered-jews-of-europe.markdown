@@ -3,7 +3,7 @@ layout: post
 title:  "Memorial to the Murdered Jews of Europe"
 description: An impressive work of art
 date:  2017-02-17
-img: image-3.jpg
+img: jews_memorial.jpg
 categories: [thoughts]
 color: '006064'
 ---
@@ -18,3 +18,4 @@ Seriously?
 
 I asked myself this question after reading the article and seeing the picture, and I asked myself again when I was actually there. The memorial is a magnificent piece of architecture. I have always been a fan of simplicity and minimalism, and to me this place serves its purpose very well. We discussed in class about the concept of "void" in design, or maybe the designer wanted to present an "unspeakable" past. In any way, it certainly has purpose and meaning and is a result of well-thought-of hard work.
 
+![memorial_jews]({{site.baseurl}}/images-hq/memorial_jews/jews.jpg)

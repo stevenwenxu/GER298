@@ -3,7 +3,6 @@ layout: post
 title:  "Spoiled Steven"
 description: Some reflections on expectations and realities in Hotel Eurostars Berlin.
 date:   2017-02-17
-img: image-1.jpg
 categories: [thoughts]
 color: 43A047
 ---

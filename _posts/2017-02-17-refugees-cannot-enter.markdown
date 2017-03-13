@@ -3,7 +3,6 @@ layout: post
 title:  "Refugees cannot enter?!"
 description: There was a sign on one door of a shop on Under den Linden which says "refugees do not enter", or was there?
 date:   2017-02-17
-img: image-2.jpg
 categories: [german]
 color: 7E57C2
 ---
@@ -20,7 +19,7 @@ On the last day in Berlin, I knew I had to figure this out before leaving the co
 
 Here is the paper sign:
 
-![refugees cannot enter]()
+![refugees cannot enter]({{site.baseurl}}/images-hq/refugees/refugees.jpg)
 
 After looking it up in the dictioanry, I found out that the german sign literally says "do not block the escape route and the escape door". How did I interpret that as "Refugees do not enter"!?
 
