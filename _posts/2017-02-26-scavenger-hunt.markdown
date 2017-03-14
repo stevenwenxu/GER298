@@ -8,7 +8,7 @@ color: 00897B
 categories: [photos]
 ---
 
-✅ Schnitzel
+✅ Schnitzel ✅ Kartoffel
 
 ![Schnitzel]({{site.baseurl}}/images-hq/scavenger_hunt/schnitzel.jpg)
 
@@ -48,7 +48,6 @@ categories: [photos]
 
 ![West German Ampelmann]({{site.baseurl}}/images-hq/scavenger_hunt/ampelmann2.jpg)
 
-
 ✅ Europe’s first traffic light
 
 ![Europe’s first traffic light]({{site.baseurl}}/images-hq/scavenger_hunt/traffic_light.jpg)
@@ -73,15 +72,11 @@ categories: [photos]
 
 ![a piece of cake]({{site.baseurl}}/images-hq/scavenger_hunt/cake.jpg)
 
-✅ Kartoffel
-
-![Kartoffel]({{site.baseurl}}/images-hq/scavenger_hunt/kartoffel.jpg)
-
 ✅ Euro coins from at least three different countries
 
 ![coins]({{site.baseurl}}/images-hq/scavenger_hunt/coins.jpg)
 
-✅ the longest German word you can find
+❓ the longest German word you can find
 
 Maybe because I have studied German for several years, no word seems to be longer than I expected. However, the entire second paragraph is a *really* long sentence! It's one sentence!
 

@@ -13,7 +13,7 @@
     column-count: 4;
     column-gap: 2%;
     column-width: 25%;
-    
+
     @include media-query($on-laptop){
     -moz-column-count: 3;
     -moz-column-gap: 3%;
@@ -23,7 +23,7 @@
     -webkit-column-width: 30%;
     column-count: 3;
     column-gap: 3%;
-    column-width: 30%;        
+    column-width: 30%;
     }
     @include media-query($on-palm) {
     -moz-column-count: 1;
@@ -61,7 +61,7 @@
     @include media-query($on-laptop){
         content: '3 .column.size-1of3';
     }
-    
+
        @include media-query($on-palm){
         content: '1 .column.size-1of1';
     }
@@ -83,11 +83,11 @@
 
 
 /* These are the classes that are going to be applied: */
-.column { 
+.column {
     float: left;
-    
+
 }
-.size-1of4 { 
+.size-1of4 {
      width: 25%;
 
 }
@@ -98,8 +98,8 @@
 /*     width: 100%; */
     border-radius: 4px;
     box-shadow: 2px 2px 4px #aaa;
-    -webkit-box-shadow: 2px 2px 4px #aaa; 
-    -moz-box-shadow: 2px 2px 4px #aaa; 
+    -webkit-box-shadow: 2px 2px 4px #aaa;
+    -moz-box-shadow: 2px 2px 4px #aaa;
     color: rgba(255, 255, 255, 0.72);
     &:hover {
           box-shadow: 3px 3px 6px #aaa;
@@ -111,17 +111,17 @@
 
 
 .feat-image {
-   border-radius: 4px 4px 0 0; 
+   border-radius: 4px 4px 0 0;
    width: 100%;
 
-}    
+}
 
 
 .container {
-         padding: 15px;     
+         padding: 15px;
 
      }
-     
+
 .container a {
     color: #eee;
     text-decoration: none;
@@ -135,7 +135,7 @@
          margin-top: 15px;
          padding-top: 15px;
          border-top: 1px solid #ddd;
-       
+
      }
      .action .fa{
          float: right;
@@ -144,7 +144,7 @@
          &:hover{
              opacity: 0.8;
          }
-         
+
      }
 
 .social {
@@ -213,7 +213,6 @@ footer {
 header {
     min-height: 60px;
     text-align: center;
-    margin: 2em 0;
 }
 
 .header-title {
@@ -233,7 +232,7 @@ header {
     line-height: 1;
     color: #ea6111;
     text-shadow: 0 0 1px;
-    
+
 }
 
 // Disqus comments button
@@ -318,7 +317,7 @@ table {
         height: 180px;
     }
 
-    
+
 }
 
 // Featured image in posts

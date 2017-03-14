@@ -1,6 +1,23 @@
 ---
-layout: default
+layout: compress
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+<header>
+
+<a href="{{site.baseurl}}/">
+    <h1 class="header-title">{{site.title}}
+        <i class="fa fa-plane" aria-hidden="true"></i>
+    </h1>
+</a>
+
+<h2 class="header-tagline">food, places and thoughts</h2>
+
+</header>
+<div id="main">
 
 <div class="page-container">
    {% if page.img %}
@@ -21,3 +38,12 @@ layout: default
             {% endif %}
     </div>
 </div>
+
+{% include footer.html %}
+
+</div>
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+{% include analytics.html %}
+</body>
+</html>

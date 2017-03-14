@@ -5,3 +5,27 @@
         color: #eae311;
     }
 }
+
+body {
+    margin: 0;
+}
+
+#main {
+    margin: 8px;
+}
+
+#landing-page {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.landing-video {
+    width: 100%;
+}
+
+.bottom-left-corner {
+    position: absolute;
+    left: 80px;
+    bottom: 80px;
+}
