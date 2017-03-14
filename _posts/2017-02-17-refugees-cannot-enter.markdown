@@ -3,6 +3,7 @@ layout: post
 title:  "Refugees cannot enter?!"
 description: There was a sign on one door of a shop on Under den Linden which says "refugees do not enter", or was there?
 date:   2017-02-17
+img: nazi.jpg
 categories: [german]
 color: 7E57C2
 ---
