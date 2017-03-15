@@ -62,7 +62,7 @@ categories: [photos]
 
 ✅ painting or sculpture by a German artist
 
-![painting or sculpture by a German artist]({{site.baseurl}}/images-hq/scavenger_hunt/mao.jpg)
+![painting or sculpture by a German artist]({{site.baseurl}}/images-hq/tourist_sites/neue_wache.jpg)
 
 ✅ a picture of the Berlin S-Bahn (Berlin’s urban rapid transit train)
 
