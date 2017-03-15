@@ -41,7 +41,7 @@ It was worse when I was getting a ticket in the German History Museum.
 > "Ich hätte gerne ein ermäßigtes Ticket für Student" \\
 > "Where are you from?" \\
 > "China" \\
-> (processes the ticket and gave me a brochure) "Here you go!"
+> (processes the ticket and gives me a brochure) "Here you go!"
 
 The brochure was in Chinese.
 
@@ -53,7 +53,7 @@ In both cases they were trying to give me the best tourist experience by minimiz
 
 To me, keeping every experience in a German environment is crucial to authenticity. I wanted to try my best to pretend to be a "Berliner". That's why whenever I had to use English, I always ask "Sprechen Sie Englisch?" (Do you speak English?) in German before asking the English question, and "Haben Sie eine Speisekarte auf Englisch?" (Do you have an English menu?) even though I seemed to understand a lot of words. To me, it's just not authentic if everything is presented to me in my comfort zone.
 
-I follow a lot of food explorers on Youtube. One common thing is that they always speak the local language, no matter how not-so-good that is. [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg), a Canadian, has been living in China for quite long time, yet he still discovers really local and authentic food every single week, because he gets to places where only locals know, some of them are literally not on the map. Why? He not only speaks Mandarin, but also the local dialect. People want to be friends with him and therefore he is able to try all the best things his city has to offer.
+I follow a lot of food explorers on Youtube. One common thing is that they always speak the local language, no matter how not-so-good that is. [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg), a Canadian, has been living in China for quite long time, yet he still discovers really local and authentic food every single week, because he gets to places where only locals know, some of them are literally not on the map. How? He not only speaks Mandarin, but also the local dialect. People want to be friends with him and therefore he is able to try all the best things his city has to offer.
 
 I love that in smaller cities such as Dresden and Dessau, much less people are able to speak English. I got a LOT of practices there by not only addressing my own questions, but also my friends' translation needs. The locals just don't speak English at all, even those in the service industry. It always gives me great satisfaction when I got what I want (answer or stuff) in German, and I would say those two days are the best days. I was truly put in a German-only environment. It was what I call authentic.
 
