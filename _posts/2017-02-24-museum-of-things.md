@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Museum of Things"
-description: Things? What things? It turns out to be my favourite museum of the entire trip.
+description: Things? What things? The hole in the wall turns out to be my favourite museum of the entire trip.
 date:   2017-02-24
 categories: [photos]
 img: museum_of_things.jpg
 color: 4CAF50
 ---
 
-Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has old things. The museum focuses on how the life quality has improved over the years, does comparisons between east and west Germany, and poses a question "How should we live?". But I wasn't super interested in that. As a computer nerd, this museum has all my favourite vintage old tech, some of which I have only heard of but too young to have seen. I just have to share them in a post.
+Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has old things. The museum focuses on how the life quality has improved over the years, does comparisons between east and west Germany, and poses a question "How should we live?". But I wasn't super interested in that. As a computer nerd, this museum has all my favourite vintage old tech, some of which I have only heard of but too young to have seen. I just have to share them in a post, because I think it says a lot about me.
 
 ### Addiator
 ##### It looks so cool! What does it do? Does it add?
@@ -22,8 +22,8 @@ Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has ol
 ##### Old, but more intuitive to me. The top left one looks like it's from the future.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/calculators.jpeg)
 
-### Old mechanical keyboard
-##### It used to be standards, but now a luxury. What's with the hype of going thinner?
+### Typewritter with mechanical keyboard
+##### Mechanical keyboards used to be standards, but now a luxury. What's with the hype of going thinner?
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/mechan_keyboard.jpeg)
 
 ### Floppy Disk
@@ -50,16 +50,16 @@ Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has ol
 ##### This looks like something I'd use.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/mac_plus.jpeg)
 
-### Macintosh Powerbook Duo 230 (1992)
-##### Another Apple laptop that I'd use.
+### Macintosh PowerBook Duo 230 (1992)
+##### Just look at the design. It's perfect.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/mac_powerbook_duo_230.jpeg)
 
-### Macintosh Powerbook G3 (1997)
+### Macintosh PowerBook G3 (1997)
 ##### This was the cool thing. [Checkout how many TV series featured it](https://en.wikipedia.org/wiki/PowerBook_G3#In_popular_culture)
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/mac_powerbook_g3.jpeg)
 
-### Nokia phones
-##### I am very sure my dad used to have the blue one in the front
+### Siemens and Nokia phones
+##### Durable and reliable.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/nokia.jpeg)
 
 ### iPods
@@ -70,7 +70,7 @@ Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has ol
 ##### I still can't believe I was not aware of this product line.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/ipod_mini.jpeg)
 
-### the First iPhone (2007)
+### The First iPhone (2007)
 ##### This was legendary. No need to say more.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/iPhone.jpeg)
 
