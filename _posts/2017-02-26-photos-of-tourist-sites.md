@@ -20,7 +20,7 @@ color: 03A9F4
 
 ![Berliner Dom]({{site.baseurl}}/images-hq/tourist_sites/berliner_dom.jpg)
 
-### Brandenburg Gate (night)
+### Brandenburg Gate
 
 ![Brandenburg Gate]({{site.baseurl}}/images-hq/tourist_sites/brandenburg_gate.jpg)
 
@@ -50,7 +50,7 @@ The busses were set up to mirror a barrier made of busses that was placed on the
 
 ![Kulturbrauerei]({{site.baseurl}}/images-hq/tourist_sites/kulturbrauerei.jpg)
 
-### Mauerpark (Berlin wall park)
+### Mauerpark (Berlin Wall park)
 
 ![Mauerpark]({{site.baseurl}}/images-hq/tourist_sites/mauerpark.jpg)
 
@@ -70,7 +70,7 @@ The busses were set up to mirror a barrier made of busses that was placed on the
 
 ![Reichstag]({{site.baseurl}}/images-hq/tourist_sites/reichstag.jpg)
 
-### Reichstag, top
+### Reichstag
 
 ![Reichstag]({{site.baseurl}}/images-hq/tourist_sites/reichstag2.jpg)
 
@@ -78,7 +78,7 @@ The busses were set up to mirror a barrier made of busses that was placed on the
 
 ![Street View, Dresden]({{site.baseurl}}/images-hq/tourist_sites/dresden2.jpg)
 
-### Spree
+### Spree river
 
 ![Spree]({{site.baseurl}}/images-hq/tourist_sites/spree.jpg)
 

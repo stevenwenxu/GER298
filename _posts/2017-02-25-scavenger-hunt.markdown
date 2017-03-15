@@ -2,7 +2,7 @@
 layout: post
 title:  "Scavenger Hunt"
 description: A list of interesting items that I found in Germany
-date:   2017-02-26
+date:   2017-02-25
 img: scavenger-hunt.jpg
 color: 00897B
 categories: [photos]
@@ -74,7 +74,13 @@ categories: [photos]
 
 ✅ Euro coins from at least three different countries
 
+- 2 Euro: Deutschland (Germany)
+- 50 Cent: Espana (Spain)
+- 10 Cent: Beatrix Koningin der Nederlanden (the Netherlands)
+
 ![coins]({{site.baseurl}}/images-hq/scavenger_hunt/coins.jpg)
+
+![coins]({{site.baseurl}}/images-hq/scavenger_hunt/coins1.jpg)
 
 ❓ the longest German word you can find
 

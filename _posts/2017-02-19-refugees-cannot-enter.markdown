@@ -2,15 +2,15 @@
 layout: post
 title:  "Refugees cannot enter?!"
 description: There was a sign on one door of a shop on Under den Linden which says "refugees do not enter", or was there?
-date:   2017-02-17
+date:   2017-02-19
 img: nazi.jpg
 categories: [german]
 color: 7E57C2
 ---
 
-While I was walking on the famous street "Unter den Linden", I saw a paper notice on a door of a shop that gave me some serious shocks. It literally meant to me "Refugees do not enter". I walked up close and tried to see if that was real, and yep, without a dictioanry I was pretty sure.
+While I was walking on the famous street "Unter den Linden", I saw a paper notice on a door of a shop that gave me some serious shocks. It literally meant to me "Refugees do not enter".
 
-I pointed it out to my friends who did not know any German, and they were shocked as well. So the four of us stopped in front of a gift shop with serious and confused faces, and occasionally pointed to the paper sign. Because of the early time, the shop wasn't open yet, but there were already pedestrians on the street. I could feel that they were looking and staring at us strangely, which I interpreted as "go away you tourist, it's none of your business".
+I pointed it out to my friends who did not know any German, and they were shocked as well. So the four of us stopped in front of a gift shop with serious and confused faces, and occasionally pointed to the paper sign. Because of the early time, the shop wasn't open yet, but there were already pedestrians on the street. I could feel that they were looking and staring at us strangely, which I interpreted as "go away you tourists, it's none of your business".
 
 The owner of the shop next door walked out and asked me: "Kann ich Ihnen vielleicht helfen?" (May I help you?). I was too afraid so I replied "Nein danke" (no thanks), put my camera back in my pocket, and quickly walked away. I did not take a picture and did not dare to stand there for one more second.
 
@@ -22,9 +22,9 @@ Here is the paper sign:
 
 ![refugees cannot enter]({{site.baseurl}}/images-hq/refugees/refugees.jpg)
 
-After looking it up in the dictioanry, I found out that the german sign literally says "do not block the escape route and the escape door". How did I interpret that as "Refugees do not enter"!?
+After looking it up in the dictionary, I found out that the german sign literally says "do not block the escape route and the escape door". How did I interpret that as "Refugees do not enter"!?
 
-Right before the trip, my GER 212 course was discussing topics regarding refugees, and we were given many articles about them. One article was about language loss and discussed a bunch of german words that mean refugees and some of them are no longer used.
+Right before the trip, my GER 212 course was discussing topics regarding refugees, and we were given many articles about them. One article was about language loss and discussed a bunch of German words that mean refugees and some of them are no longer used.
 
 - der Flüchtling
 - die Flüchtlingin

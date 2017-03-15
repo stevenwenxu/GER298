@@ -2,7 +2,7 @@
 layout: post
 title:  "Museum of Things"
 description: Things? What things? The hole in the wall turns out to be my favourite museum of the entire trip.
-date:   2017-02-24
+date:   2017-02-23
 categories: [photos]
 img: museum_of_things.jpg
 color: 4CAF50
@@ -43,7 +43,7 @@ Call me a weirdo, but I love old things. Coincidentally, Museum der Dinge has ol
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/apple_mouse.jpeg)
 
 ### DOS installation disk and photoshop 7.0
-##### I really really really want them.
+##### I really really want them.
 ![Addiator]({{site.baseurl}}/images-hq/museum_of_things/dos_photoshop.jpeg)
 
 ### Macintosh Plus

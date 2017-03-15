@@ -2,7 +2,7 @@
 layout: post
 title:  "Sausages in Berlin"
 description: Do you want A or B? I don't care, it's all sausages to me.
-date:   2017-02-20
+date:   2017-02-21
 img: netflix.jpg
 categories: [food, german]
 color: 9E9D24
@@ -16,13 +16,13 @@ Before diving into food, I want to first share some really interesting German id
 > Es geht um die Wurst! (It's all about the sausage!) \\
 > meaning: "This is the time, now or nothing!"
 
-I learned these a while ago from one of my favourate Youtubers [rewboss](https://www.youtube.com/watch?v=Pxp7eJIL3RI&ab_channel=rewboss) who is a Brit who lives in Germany. In fact, along with some other channels, Youtube might be my most significant source of information on everything interesting related to German and Germany.
+I learned these a while ago from one of my favourate YouTubers [rewboss](https://www.youtube.com/watch?v=Pxp7eJIL3RI&ab_channel=rewboss) who is a Brit who lives in Germany. In fact, along with some other channels, YouTube might be my most significant source of information on everything interesting related to German and Germany.
 
 Now, it's literally all about the sausages!
 
 The most common sausages I found in Berlin are Currywurst and Bratwurst. Before coming to Germany, I thought Currywurst is a sausage with curry sauce filled inside, but it's not. It's a "regular" sausage cut up into pieces, and then topped with ketchup and curry powder. Some vendors just use normal ketchup, while others may add finely chopped onions and other ingredients and spices to make their own tomato sauce. Bratwurst is a whole fried sausage that's wrapped inside a small bread like a hog dog. It's much longer than a hot dog, and is much more flavourful.
 
-Sausages are everywhere, but the two most famous stands are called "[Curry 36](https://www.tripadvisor.ca/Restaurant_Review-g187323-d779563-Reviews-Curry_36-Berlin.html)" and "[Konnopke's Imbiß - seit 1930](https://www.tripadvisor.ca/Restaurant_Review-g187323-d1010126-Reviews-Konnopke_s-Berlin.html)".
+Sausages are everywhere, but the two most famous stands are called "[Curry 36](https://www.tripadvisor.ca/Restaurant_Review-g187323-d779563-Reviews-Curry_36-Berlin.html)" and "[Konnopke's Imbiß](https://www.tripadvisor.ca/Restaurant_Review-g187323-d1010126-Reviews-Konnopke_s-Berlin.html)".
 
 ![curry36]({{site.baseurl}}/images-hq/sausages/curry36.jpg)
 

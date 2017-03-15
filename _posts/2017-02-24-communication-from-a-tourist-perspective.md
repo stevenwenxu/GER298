@@ -2,7 +2,7 @@
 layout: post
 title:  "Communication from a tourist's perspective"
 description: "Sprechen Sie Englisch? A little bit, go on"
-date:   2017-02-26
+date:   2017-02-24
 categories: [german, thoughts]
 img: deutsch.jpg
 color: f44336
@@ -20,7 +20,7 @@ I'd like to answer this by quoting what Nelson Mandela said:
 If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
 </p></blockquote>
 
-In Germany, I start a conversation with people in German whenever I can. In a city like Berlin where tourism is an important industry, I still firmly believe that people will appreciate my effort in learning their language. Looking back, pretty much all of my Canadian-born Chinese friends hate it when strangers start speaking Chinese to them, since they don't like to be judged by their appearences and "he/she must be Chinese" can a pretty good guess. Similarly, every German must feel at least a bit of discomfort, when someone just speaks English to them directly without asking first. "Is it almost a stereotype of Germans that you can just assume I speak English?", one might ask himself.
+In Germany, I start a conversation with people in German whenever I can. In a city like Berlin where tourism is an important industry, I still firmly believe that people will appreciate my effort in learning their language. Looking back, pretty much all of my Canadian-born Chinese friends hate it when strangers start speaking Chinese to them, since they don't like to be judged by their appearances and "he/she must be Chinese" can a pretty good guess. Similarly, every German must feel at least a bit of discomfort, when someone just speaks English to them directly without asking first. "Is it almost a stereotype of Germans that you can just assume I speak English?", one might ask himself.
 
 ## Good experiences
 
@@ -29,7 +29,7 @@ To echo what I wrote in the First Day post, the three textbooks do cover a lot o
 
 ## Funny experiences
 
-Of course, funny things can happen when I'm not at all fluent. When I was ordering Döner, the owner asked me if I wanted to wrap it in tin foil so that I could take it to go. There is no way I understand "tin foil" in German, and I just had to say "bitte?" (pardon?) twice since I didn't know what he was talking about. When he realized he wasn't unclear, we had to switch to English, and it was really embarrasing. The couple behind me initially gave me an impressed look when I ordered in German, and then couldn't help laughing when I had to use English. I wouldn't say being laughed is a bad thing, because that was an ice breaker for a good 10-minute chat while we were eating Döner together. They were from France and used to struggle with German as well, so they could very much relate to my experience.
+Of course, funny things can happen when I'm not at all fluent. When I was ordering Döner, the owner asked me if I wanted to wrap it in tin foil so that I could take it to go. There is no way I understand "tin foil" in German, and I just had to say "bitte?" (pardon?) twice since I didn't know what he was talking about. When he realized he wasn't unclear, we had to switch to English, and it was really embarrassing. The couple behind me initially gave me an impressed look when I ordered in German, and then couldn't help laughing when I had to use English. I wouldn't say being laughed is a bad thing, because that was an ice breaker for a good 10-minute chat while we were eating Döner together. They were from France and used to struggle with German as well, so they could very much relate to my experience.
 
 
 ## Awkward experiences
@@ -53,9 +53,9 @@ In both cases they were trying to give me the best tourist experience by minimiz
 
 To me, keeping every experience in a German environment is crucial to authenticity. I wanted to try my best to pretend to be a "Berliner". That's why whenever I had to use English, I always ask "Sprechen Sie Englisch?" (Do you speak English?) in German before asking the English question, and "Haben Sie eine Speisekarte auf Englisch?" (Do you have an English menu?) even though I seemed to understand a lot of words. To me, it's just not authentic if everything is presented to me in my comfort zone.
 
-I follow a lot of food explorers on Youtube. One common thing is that they always speak the local language, no matter how not-so-good that is. [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg), a Canadian, has been living in China for quite long time, yet he still discovers really local and authentic food every single week, because he gets to places where only locals know, some of them are literally not on the map. How? He not only speaks Mandarin, but also the local dialect. People want to be friends with him and therefore he is able to try all the best things his city has to offer.
+I follow a lot of food explorers on YouTube. One common thing is that they always speak the local language, no matter how not-so-good that is. [The Food Ranger](https://www.youtube.com/channel/UCiAq_SU0ED1C6vWFMnw8Ekg), a Canadian, has been living in China for quite long time, yet he still discovers really local and authentic food every single week, because he gets to places where only locals know, some of them are literally not on the map. How? He not only speaks Mandarin, but also the local dialect. People want to be friends with him and therefore he is able to try all the best things his city has to offer.
 
-I love that in smaller cities such as Dresden and Dessau, much less people are able to speak English. I got a LOT of practices there by not only addressing my own questions, but also my friends' translation needs. The locals just don't speak English at all, even those in the service industry. It always gives me great satisfaction when I got what I want (answer or stuff) in German, and I would say those two days are the best days. I was truly put in a German-only environment. It was what I call authentic.
+I love that in smaller cities such as Dresden and Dessau, much fewer people are able to speak English. I got a LOT of practices there by not only addressing my own questions, but also my friends' translation needs. The locals just don't speak English at all, even those in the service industry. It always gives me great satisfaction when I got what I want (answer or stuff) in German, and I would say those two days are the best days. I was truly put in a German-only environment. It was what I call authentic.
 
 <style>
 blockquote.quote {

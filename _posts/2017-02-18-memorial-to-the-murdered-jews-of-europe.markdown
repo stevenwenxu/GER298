@@ -2,13 +2,13 @@
 layout: post
 title:  "Memorial to the Murdered Jews of Europe"
 description: An impressive work of art
-date:  2017-02-17
+date:  2017-02-18
 img: jews_memorial.jpg
 categories: [thoughts]
 color: '006064'
 ---
 
-The Memorial to the Murdered Jews of Europe is located right in the center of Berlin, and is very close to Branderburg Gate. Instead of one building, it has 2710 concrete slabs standing on the ground. According to [dw.com](http://www.dw.com/en/ten-year-anniversary-of-berlins-holocaust-memorial/g-18438425), the slabs "were arranged symmetrically on 19,000 square meters of land. All of them have identical base measurements, but different heights. The total cost amounted to about 27 million euros."
+The Memorial to the Murdered Jews of Europe is located right in the center of Berlin, and is very close to Brandenburg Gate. Instead of one building, it has 2710 concrete slabs standing on the ground. According to [dw.com](http://www.dw.com/en/ten-year-anniversary-of-berlins-holocaust-memorial/g-18438425), the slabs "were arranged symmetrically on 19,000 square meters of land. All of them have identical base measurements, but different heights. The total cost amounted to about 27 million euros."
 
 I'm not an expert in any arts, but I can tell this has a very interesting and different design from other memorials I've seen. There are no names, no years, nothing on the stones. People can walk in between the aisles, take selfies while sitting on one of them, and children can play hide and seek in the maze.
 

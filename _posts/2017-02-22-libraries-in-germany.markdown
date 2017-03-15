@@ -2,7 +2,7 @@
 layout: post
 title:  "Libraries in Germany"
 description: Whenever I visit a new city, I must check out their public libraries. From the design to its scale to its people, they just say so much about the city.
-date:   2017-02-21
+date:   2017-02-22
 categories: [thoughts]
 img: libraries.jpg
 color: BF360C
@@ -63,6 +63,8 @@ Interestingly, the library also serves as a tiny museum where there are signs an
 
 ## What's the deal?
 
-Libraries aren't usually a tourist's thing, but they play an important role in the society. When a city spends so much resources and care to build and maintain a public service like the library, it says a lot about its citizens, its communities, and the city as a whole.
+Libraries aren't usually a tourist thing, but they play an important role in the society. When a city spends so many resources and care to build and maintain a public service like the library, it says a lot about its citizens, its communities, and the city as a whole.
 
 At a library, everyone can learn. No matter how poor or rich you are, you feel insignificant in front of the sea of knowledge. The better the library is, the more the city values knowledge and education. The greater the needs for a library is, the higher the average literacy rate and education level of the city is.
+
+The efforts in running the city library is a key factor for me to determine whether I like this city or not, and in some cases, whether I'd like to relocate to this city in the long run. Who doesn't like to be surrounded by knowledgeable people who like to read books?
