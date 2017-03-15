@@ -35,7 +35,7 @@ Right before the trip, my GER 212 course was discussing topics regarding refugee
 
 You don't need to know German to identify the "flücht" part in each word. So I assumed the "Fluchtwege" and "Fluchttüren" also have something to do with refugees. I feel so dumb because I actually know "Wege" means route and "Türen" means doors, but the "flucht" part triggers so much memory about the reading that I ignored the rest.
 
-As for the word "verstellen", that was just a half-guessing half-knowing word interpreted under panic. I know "stellen" has something to do with putting things at places, so combined with the prefix "ver" and "nicht" (not) I mistakenly thought of "not to be put here", so together something along the lines of "refugees shouldn't be here".
+As for the word "verstellen", I actually guessed correctly. I know "stellen" has something to do with putting things at places, so combined with the prefix "ver" and "nicht" (not) it should be "not to be put here", which means "not to block". However, together I mistakenly interpreted it as "refugees shouldn't be here".
 
 This is probably a laughable mistake only German learners can understand. If I explain this to Germans, they would probably be confused instead of entertained.
 

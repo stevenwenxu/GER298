@@ -8,7 +8,7 @@ img: libraries.jpg
 color: BF360C
 ---
 
-Whenever I visit a new city, I must check out their public libraries. Big cities such as Beijing or Vancouver have libraries with crazy designs. They look magnificent, sophisticated and modern. Libraries in small cities like Kitchener-Waterloo are relatively low-profile on the outside, but still have great selection of books and magazines.
+Whenever I visit a new city, I must check out their public libraries. Big cities such as Beijing or Vancouver have libraries with crazy designs. They look magnificent, sophisticated and modern. Libraries in small cities like Kitchener-Waterloo are relatively low-profile on the outside, but still have great selection of books and magazines. They just say so much about the city as a whole.
 
 I visited two libraries in Berlin, and they left me with really nice impressions.
 
@@ -60,6 +60,10 @@ The interior is so fancy. This is the best looking library I've been to. Words c
 Interestingly, the library also serves as a tiny museum where there are signs and open places where they show off the challenges the library has faced and how they dealt with them. This sign, "Paper decaying - the timed bomb in the library", explains the situation with old books. Something like this is not usually seen in libraries, but it serves well with its purpose - knowledge sharing.
 
 ![staat_oldbooks]({{site.baseurl}}/images-hq/libraries/staat_oldbooks.jpg)
+
+## Studying in the library
+
+I studied in the first library for several hours, just to experience what it's like to be surrounded by real local people. Comparing to all the tourist sites, the library is perhaps the most German place I've been to, since tourists don't go there, and no English is necessary. When I was studying there, it was extremely quiet, much quieter than the average library I've been to. Unless there are people coming or leaving, it just felt like I was the only one in the room. There wasn't anyone whispering, anyone who forgets to plug in headphones, or anyone who uses headphones but maximizes the volume so others could hear the music. Everyone must have really high self discipline. Thanks to the excellent environment, my study day was worth it. I got 13 marks higher than the average score in the exam I had to write right after the trip at 1-3am Berlin time (with jetlag).
 
 ## What's the deal?
 
