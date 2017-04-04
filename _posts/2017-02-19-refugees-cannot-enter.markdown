@@ -24,7 +24,7 @@ Here is the paper sign:
 
 After looking it up in the dictionary, I found out that the german sign literally says "do not block the escape route and the escape door". How did I interpret that as "Refugees do not enter"!?
 
-Right before the trip, my GER 212 course was discussing topics regarding refugees, and we were given many articles about them. One article was about language loss and discussed a bunch of German words that mean refugees and some of them are no longer used.
+Right before the trip, my GER 212 course was just starting to discuss topics regarding refugees, and we were given many articles about them. One article was about language loss and discussed a bunch of German words that mean refugees and some of them are no longer used.
 
 - der Flüchtling
 - die Flüchtlingin
@@ -33,10 +33,10 @@ Right before the trip, my GER 212 course was discussing topics regarding refugee
 - der Geflüchtete
 - die Geflüchtete
 
-You don't need to know German to identify the "flücht" part in each word. So I assumed the "Fluchtwege" and "Fluchttüren" also have something to do with refugees. I feel so dumb because I actually know "Wege" means route and "Türen" means doors, but the "flucht" part triggers so much memory about the reading that I ignored the rest.
+You don't need to know German to identify the "flücht" part in each word. So I assumed the "Fluchtwege" and "Fluchttüren" also have something to do with refugees. I feel so dumb because I actually know "Wege" means routes and "Türen" means doors, but the "flucht" part triggers so much memory about the reading that I ignored the rest. I mean, the class *just* started discussing this topic, you can't expect me to remember this new word immediately.
 
 As for the word "verstellen", I actually guessed correctly. I know "stellen" has something to do with putting things at places, so combined with the prefix "ver" and "nicht" (not) it should be "not to be put here", which means "not to block". However, together I mistakenly interpreted it as "refugees shouldn't be here".
 
-This is probably a laughable mistake only German learners can understand. If I explain this to Germans, they would probably be confused instead of entertained.
+This is probably a laughable mistake only German learners can understand. If I explain this to native speakers of German, they would probably be confused instead of entertained.
 
 I guess I'll never know why an English translation was up 9 days later.
