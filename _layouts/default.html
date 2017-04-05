@@ -24,6 +24,8 @@ layout: compress
     <h2 class="header-tagline">food, places and thoughts</h2>
 </div>
 
+<a href="#" class="scroll-down"></a>
+
 </div>
 
 </header>
@@ -39,6 +41,13 @@ layout: compress
 
 <script>
     sr.reveal('.box', { duration: 2000, easing   : 'ease' }, 70);
+
+    $(function() {
+        $('.scroll-down').click (function() {
+          $('html, body').animate({scrollTop: $('#main').offset().top - 30 }, 1500);
+          return false;
+        });
+    });
 </script>
 
 {% include analytics.html %}
