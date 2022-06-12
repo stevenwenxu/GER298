@@ -1,12 +1,13 @@
 
 title: Steven in Berlin
 desctiption: Steven just went to Berlin for the first time.
-url: "http://berlin.sxu.ca"
 permalink: ':title/'
 
-markdown: kramdown
-baseurl: ""
+domain: "stevenwenxu.github.io"
+url: "https://stevenwenxu.github.io"
+baseurl: "/GER298"
 
+markdown: kramdown
 sass:
     style: compressed
 
@@ -37,4 +38,4 @@ api-token:
 include: [_pages]
 version: 0.8
 
-gems: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag]
